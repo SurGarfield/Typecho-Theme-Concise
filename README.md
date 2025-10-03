@@ -7,4 +7,4 @@
 后台“外观”菜单中找到并激活该主题
 在“外观”->“编辑当前主题”中进行个性化设置
 
-![预览](https://github.com/SurGarfield/Typecho-Theme-Garfield/blob/main/screenshot.png)
+![预览](https://github.com/SurGarfield/Typecho-Theme-Concise/screenshot.png)
